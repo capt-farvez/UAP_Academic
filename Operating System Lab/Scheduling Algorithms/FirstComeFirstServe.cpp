@@ -30,7 +30,7 @@ int main(){
     for(int i=0; i<pre_sum.size()-1; i++){
         sum1+=pre_sum[i];
     }
-    cout<<"Avarage without shortest path: "<<sum1/4.0<<endl;
+    cout<<"Avarage without shortest path: "<<sum1/double(n)<<endl;
    
     int ittt=0;
     for (const auto& pair : mp) {
