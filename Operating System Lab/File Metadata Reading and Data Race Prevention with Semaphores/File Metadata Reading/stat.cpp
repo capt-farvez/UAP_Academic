@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    const char* filename = "lru.py";
+    const char* filename = "test.cpp";
     struct stat fileStat;
 
     // Check if file exists
