@@ -6,4 +6,5 @@ Each folder in this repository represents a different university lab course or p
 
 ## Usage
 Feel free to explore the repository and its contents. You can clone this repository to your local machine using the following command:
-git clone https://github.com/capt-farvez/UAP_Academic
+--
+git clone https://github.com/capt-farvez/UAP_Academic.git
